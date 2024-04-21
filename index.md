@@ -1,9 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>CSS Experiment</title>
-<link rel="stylesheet" type="text/css" href="https://arourasan.github.io/style.css">
-</head>
+<link rel="stylesheet" type="text/css" href="style.css">
 <body>
 
 <div class="ep" id="fixed">Fixed</div>
@@ -14,4 +9,3 @@
 
 
 </body>
-</html>
