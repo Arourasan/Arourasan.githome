@@ -1,2 +1,2 @@
 # Arourasan.githome
-project test
+Test website for a personal portfolio.
